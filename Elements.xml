@@ -1,0 +1,11 @@
+<QuizElement question="" isCorrect="">
+    <YesNoQuestion1 question="Ist eine Banane krumm?" isQuestionTrue="true"></YesNoQuestion1>
+    <YesNoQuestion2 question="Ist Daniel Wagner dumm?" isQuestionTrue="false"></YesNoQuestion2>
+    <FreetextQuestion1 question="Für was steht die Abkürzung DNA?" correctAnswer="Desoxyribonukleinsäure"></FreetextQuestion1>
+    <GuessQuestion1 question="Wie viele Einwohner hat Deutschland ca.?" correctAnswer="82000000" tolerance="1000000"></GuessQuestion1>
+    <MultipleChoiceQuestion1 question="Welche Layer gehören zum TCP/IP Stack?">
+        <answer1 isQuestionTrue="true">Link Layer</answer1>
+        <answer2 isQuestionTrue="true">Internet Layer</answer2>
+        <answer3 isQuestionTrue="false">Monitor Layer</answer3>
+    </MultipleChoiceQuestion1>
+</QuizElement>
